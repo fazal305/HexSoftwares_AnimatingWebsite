@@ -6,7 +6,8 @@ This project was built as part of the HexSoftwares Internship Program.
 ## 📌 Project Description
 A fully animated single-page website built using HTML, CSS, and JavaScript.  
 It features staggered animations, scroll-triggered effects, a typewriter system, and modern cyberpunk UI design.
-
+## 🔗 Live Demo
+https://fazal305.github.io/HexSoftwares_AnimatingWebsite/
 ---
 
 ## ✨ Features
